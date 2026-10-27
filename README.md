@@ -8,7 +8,7 @@
 - Section: S-26
 ## Deployment
 
-- Live deployment URL: https://lab-01-mauve.vercel.app
+- Live deployment URL: backenddevelopmentfundementalslab1.vercel.app
 
 ## Project objective
 
