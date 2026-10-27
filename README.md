@@ -8,7 +8,7 @@
 - Section: S-26
 ## Deployment
 
-- Live deployment URL: backenddevelopmentfundementalslab1.vercel.app
+- Live deployment URL:  https://backenddevelopmentfundementalslab1.vercel.app
 
 ## Project objective
 
