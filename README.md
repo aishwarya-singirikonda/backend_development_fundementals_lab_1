@@ -3,8 +3,8 @@
 
 ## Student information
 
-- Name: P.Hitesh sai
-- Registration number:252U1R9135
+- Name: S. Aishwarya
+- Registration number:252U1R9147
 - Section: S-26
 ## Deployment
 
